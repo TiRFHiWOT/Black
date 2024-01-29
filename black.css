@@ -16,16 +16,6 @@
     display: none;
   }
 }
-.para-one {
-  padding: 20px;
-  margin-block: 20px;
-  font-size: x-small;
-  background-color: #212529da;
-  border-radius: 5px;
-  font-family: "Poppins", sans-serif;
-  color: rgb(255, 252, 252);
-  box-shadow: 1px 1px 5px rgb(88, 88, 88);
-}
 @font-face {
   font-family: "gunplay";
   src: url("../fonts/gunplay/gunplay\ rg.otf");
@@ -53,6 +43,16 @@
   background-color: rgba(255, 255, 255, 0.062);
   border: 2px solid gray;
   min-width: 300px;
+}
+.para-one {
+  padding: 20px;
+  margin-block: 20px;
+  font-size: x-small;
+  background-color: #212529da;
+  border-radius: 5px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(255, 252, 252);
+  box-shadow: 1px 1px 5px rgb(88, 88, 88);
 }
 .img-brand {
   width: 50px;
